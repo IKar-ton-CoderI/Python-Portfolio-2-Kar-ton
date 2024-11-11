@@ -1,5 +1,7 @@
 # Python-Portfolio-2-Kar-ton
 
+> My Final Project including all type files from Praxis AI. I apologize though, the graphs failed to show due to some error but everything is here.
+
 ## First Notebook
 
 ```python
